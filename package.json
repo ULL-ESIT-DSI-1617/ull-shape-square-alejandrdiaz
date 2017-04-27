@@ -1,7 +1,7 @@
 {
   "name": "@alejandrdiaz/ull-shape-square-alejandrdiaz",
-  "version": "1.0.2",
-  "description": "ull shape rectangle",
+  "version": "1.0.3",
+  "description": "ull shape square",
   "main": "index.js",
   "scripts": {
     "test": "mocha"
